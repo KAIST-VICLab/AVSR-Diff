@@ -39,12 +39,6 @@
     </h4>
 </div>
 
-<div align="center">
-    <p>
-        👆 <b>Experience User-Interactive Comparisons:</b> Please visit our <a href="https://kaist-viclab.github.io/AVSR-Diff/"><b>Project Page</b></a> to explore more results.
-    </p>
-</div>
-
 ## 📧 News
 - **July 1, 2026:** This repository is created.
 - **June 18, 2026:** AVSR-Diff is accepted to **ECCV 2026** 🎉
