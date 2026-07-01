@@ -69,7 +69,7 @@ Diffusion models have significantly advanced video super-resolution (VSR) but re
 AVSR-Diff performs diffusion sampling entirely within a fixed LR latent space, so its peak GPU memory stays nearly **constant** regardless of the target scale, while resolution-specific baselines (e.g., VEnhancer) grow rapidly.
 
 <div align="center">
-    <img src="assets/memory.png" alt="Peak GPU Memory vs. Target Scale" width="60%">
+    <img src="assets/memory.png" alt="Peak GPU Memory vs. Target Scale" width="50%">
 </div>
 
 ### Qualitative Comparison
