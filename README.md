@@ -2,7 +2,7 @@
 <h2>AVSR-Diff (ECCV 2026)</h2>
 
 <div>&nbsp;&nbsp;
-    <a href='https://sites.google.com/view/geunhyukyouk/' target='_blank'>Geunhyuk Youk</a><sup>1</sup>&nbsp;
+    <a href='https://geunhyukyouk.github.io/' target='_blank'>Geunhyuk Youk</a><sup>1</sup>&nbsp;
     <a href='https://sites.google.com/view/jeonghyeokdo' target='_blank'>Jeonghyeok Do</a><sup>1</sup>&nbsp;
     Dayeon Kim<sup>1</sup>&nbsp;
     <a href='https://sites.google.com/view/ozbro/' target='_blank'>Jihyong Oh</a><sup>† 2</sup>&nbsp;
